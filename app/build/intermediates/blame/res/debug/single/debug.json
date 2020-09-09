@@ -1,0 +1,138 @@
+[
+    {
+        "merged": "C:\\Users\\Abir Lahmer\\Desktop\\Stage\\AppTestBLE\\app\\build\\intermediates\\res\\merged\\debug\\layout_actionbar_indeterminate_progress.xml.flat",
+        "source": "C:\\Users\\Abir Lahmer\\Desktop\\Stage\\AppTestBLE\\app\\src\\main\\res\\layout\\actionbar_indeterminate_progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abir Lahmer\\Desktop\\Stage\\AppTestBLE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_warning_24.xml.flat",
+        "source": "C:\\Users\\Abir Lahmer\\Desktop\\Stage\\AppTestBLE\\app\\src\\main\\res\\drawable\\ic_baseline_warning_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abir Lahmer\\Desktop\\Stage\\AppTestBLE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_circleshape.xml.flat",
+        "source": "C:\\Users\\Abir Lahmer\\Desktop\\Stage\\AppTestBLE\\app\\src\\main\\res\\drawable\\circleshape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abir Lahmer\\Desktop\\Stage\\AppTestBLE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Abir Lahmer\\Desktop\\Stage\\AppTestBLE\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Abir Lahmer\\Desktop\\Stage\\AppTestBLE\\app\\build\\intermediates\\res\\merged\\debug\\layout_listitem_device.xml.flat",
+        "source": "C:\\Users\\Abir Lahmer\\Desktop\\Stage\\AppTestBLE\\app\\src\\main\\res\\layout\\listitem_device.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abir Lahmer\\Desktop\\Stage\\AppTestBLE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_https_24.xml.flat",
+        "source": "C:\\Users\\Abir Lahmer\\Desktop\\Stage\\AppTestBLE\\app\\src\\main\\res\\drawable\\ic_baseline_https_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abir Lahmer\\Desktop\\Stage\\AppTestBLE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Abir Lahmer\\Desktop\\Stage\\AppTestBLE\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abir Lahmer\\Desktop\\Stage\\AppTestBLE\\app\\build\\intermediates\\res\\merged\\debug\\layout_gatt_services_characteristics.xml.flat",
+        "source": "C:\\Users\\Abir Lahmer\\Desktop\\Stage\\AppTestBLE\\app\\src\\main\\res\\layout\\gatt_services_characteristics.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abir Lahmer\\Desktop\\Stage\\AppTestBLE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Abir Lahmer\\Desktop\\Stage\\AppTestBLE\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Abir Lahmer\\Desktop\\Stage\\AppTestBLE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Abir Lahmer\\Desktop\\Stage\\AppTestBLE\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Abir Lahmer\\Desktop\\Stage\\AppTestBLE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_bg_login.xml.flat",
+        "source": "C:\\Users\\Abir Lahmer\\Desktop\\Stage\\AppTestBLE\\app\\src\\main\\res\\drawable-v24\\bg_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abir Lahmer\\Desktop\\Stage\\AppTestBLE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_baseline_perm_device_information_24.xml.flat",
+        "source": "C:\\Users\\Abir Lahmer\\Desktop\\Stage\\AppTestBLE\\app\\src\\main\\res\\drawable-v24\\ic_baseline_perm_device_information_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abir Lahmer\\Desktop\\Stage\\AppTestBLE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_email_24.xml.flat",
+        "source": "C:\\Users\\Abir Lahmer\\Desktop\\Stage\\AppTestBLE\\app\\src\\main\\res\\drawable\\ic_baseline_email_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abir Lahmer\\Desktop\\Stage\\AppTestBLE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Abir Lahmer\\Desktop\\Stage\\AppTestBLE\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abir Lahmer\\Desktop\\Stage\\AppTestBLE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Abir Lahmer\\Desktop\\Stage\\AppTestBLE\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Abir Lahmer\\Desktop\\Stage\\AppTestBLE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Abir Lahmer\\Desktop\\Stage\\AppTestBLE\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Abir Lahmer\\Desktop\\Stage\\AppTestBLE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Abir Lahmer\\Desktop\\Stage\\AppTestBLE\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abir Lahmer\\Desktop\\Stage\\AppTestBLE\\app\\build\\intermediates\\res\\merged\\debug\\layout_dashbord.xml.flat",
+        "source": "C:\\Users\\Abir Lahmer\\Desktop\\Stage\\AppTestBLE\\app\\src\\main\\res\\layout\\dashbord.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abir Lahmer\\Desktop\\Stage\\AppTestBLE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_logoo.png.flat",
+        "source": "C:\\Users\\Abir Lahmer\\Desktop\\Stage\\AppTestBLE\\app\\src\\main\\res\\drawable-v24\\logoo.png"
+    },
+    {
+        "merged": "C:\\Users\\Abir Lahmer\\Desktop\\Stage\\AppTestBLE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Abir Lahmer\\Desktop\\Stage\\AppTestBLE\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Abir Lahmer\\Desktop\\Stage\\AppTestBLE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_build_24.xml.flat",
+        "source": "C:\\Users\\Abir Lahmer\\Desktop\\Stage\\AppTestBLE\\app\\src\\main\\res\\drawable\\ic_baseline_build_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abir Lahmer\\Desktop\\Stage\\AppTestBLE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_baseline_arrow_forward_ios_24.xml.flat",
+        "source": "C:\\Users\\Abir Lahmer\\Desktop\\Stage\\AppTestBLE\\app\\src\\main\\res\\drawable-v24\\ic_baseline_arrow_forward_ios_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abir Lahmer\\Desktop\\Stage\\AppTestBLE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg.png.flat",
+        "source": "C:\\Users\\Abir Lahmer\\Desktop\\Stage\\AppTestBLE\\app\\src\\main\\res\\drawable\\bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Abir Lahmer\\Desktop\\Stage\\AppTestBLE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_account_circle_24.xml.flat",
+        "source": "C:\\Users\\Abir Lahmer\\Desktop\\Stage\\AppTestBLE\\app\\src\\main\\res\\drawable\\ic_baseline_account_circle_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abir Lahmer\\Desktop\\Stage\\AppTestBLE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Abir Lahmer\\Desktop\\Stage\\AppTestBLE\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abir Lahmer\\Desktop\\Stage\\AppTestBLE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_testytyty.xml.flat",
+        "source": "C:\\Users\\Abir Lahmer\\Desktop\\Stage\\AppTestBLE\\app\\src\\main\\res\\drawable-v24\\testytyty.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abir Lahmer\\Desktop\\Stage\\AppTestBLE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Abir Lahmer\\Desktop\\Stage\\AppTestBLE\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Abir Lahmer\\Desktop\\Stage\\AppTestBLE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_cloud_24.xml.flat",
+        "source": "C:\\Users\\Abir Lahmer\\Desktop\\Stage\\AppTestBLE\\app\\src\\main\\res\\drawable\\ic_baseline_cloud_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abir Lahmer\\Desktop\\Stage\\AppTestBLE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Abir Lahmer\\Desktop\\Stage\\AppTestBLE\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Abir Lahmer\\Desktop\\Stage\\AppTestBLE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_battery_charging_full_24.xml.flat",
+        "source": "C:\\Users\\Abir Lahmer\\Desktop\\Stage\\AppTestBLE\\app\\src\\main\\res\\drawable\\ic_baseline_battery_charging_full_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abir Lahmer\\Desktop\\Stage\\AppTestBLE\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_authentification.xml.flat",
+        "source": "C:\\Users\\Abir Lahmer\\Desktop\\Stage\\AppTestBLE\\app\\src\\main\\res\\layout\\activity_authentification.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abir Lahmer\\Desktop\\Stage\\AppTestBLE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Abir Lahmer\\Desktop\\Stage\\AppTestBLE\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Abir Lahmer\\Desktop\\Stage\\AppTestBLE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Abir Lahmer\\Desktop\\Stage\\AppTestBLE\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Abir Lahmer\\Desktop\\Stage\\AppTestBLE\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Abir Lahmer\\Desktop\\Stage\\AppTestBLE\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]

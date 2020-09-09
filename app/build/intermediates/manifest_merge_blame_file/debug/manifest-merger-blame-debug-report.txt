@@ -1,0 +1,92 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.yt.BLEClient"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="18"
+8-->C:\Users\Abir Lahmer\Desktop\Stage\AppTestBLE\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="26" />
+9-->C:\Users\Abir Lahmer\Desktop\Stage\AppTestBLE\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.BLUETOOTH" />
+11-->C:\Users\Abir Lahmer\Desktop\Stage\AppTestBLE\app\src\main\AndroidManifest.xml:5:5-68
+11-->C:\Users\Abir Lahmer\Desktop\Stage\AppTestBLE\app\src\main\AndroidManifest.xml:5:22-65
+12    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+12-->C:\Users\Abir Lahmer\Desktop\Stage\AppTestBLE\app\src\main\AndroidManifest.xml:6:5-74
+12-->C:\Users\Abir Lahmer\Desktop\Stage\AppTestBLE\app\src\main\AndroidManifest.xml:6:22-71
+13    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+13-->C:\Users\Abir Lahmer\Desktop\Stage\AppTestBLE\app\src\main\AndroidManifest.xml:7:5-79
+13-->C:\Users\Abir Lahmer\Desktop\Stage\AppTestBLE\app\src\main\AndroidManifest.xml:7:22-76
+14
+15    <uses-feature android:name="android.hardware.location.gps" />
+15-->C:\Users\Abir Lahmer\Desktop\Stage\AppTestBLE\app\src\main\AndroidManifest.xml:9:5-66
+15-->C:\Users\Abir Lahmer\Desktop\Stage\AppTestBLE\app\src\main\AndroidManifest.xml:9:19-63
+16
+17    <uses-permission-sdk-23 android:name="android.permission.ACCESS_COARSE_LOCATION" />
+17-->C:\Users\Abir Lahmer\Desktop\Stage\AppTestBLE\app\src\main\AndroidManifest.xml:11:5-88
+17-->C:\Users\Abir Lahmer\Desktop\Stage\AppTestBLE\app\src\main\AndroidManifest.xml:11:29-85
+18
+19    <uses-permission android:name="android.permission.ACCESS_BACKGROUND_LOCATION" />
+19-->C:\Users\Abir Lahmer\Desktop\Stage\AppTestBLE\app\src\main\AndroidManifest.xml:13:5-85
+19-->C:\Users\Abir Lahmer\Desktop\Stage\AppTestBLE\app\src\main\AndroidManifest.xml:13:22-82
+20
+21    <uses-feature
+21-->C:\Users\Abir Lahmer\Desktop\Stage\AppTestBLE\app\src\main\AndroidManifest.xml:15:5-17:35
+22        android:name="android.hardware.bluetooth_le"
+22-->C:\Users\Abir Lahmer\Desktop\Stage\AppTestBLE\app\src\main\AndroidManifest.xml:16:9-53
+23        android:required="true" />
+23-->C:\Users\Abir Lahmer\Desktop\Stage\AppTestBLE\app\src\main\AndroidManifest.xml:17:9-32
+24
+25    <application
+25-->C:\Users\Abir Lahmer\Desktop\Stage\AppTestBLE\app\src\main\AndroidManifest.xml:19:5-39:19
+26        android:allowBackup="true"
+26-->C:\Users\Abir Lahmer\Desktop\Stage\AppTestBLE\app\src\main\AndroidManifest.xml:20:9-35
+27        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+27-->[androidx.core:core:1.1.0] C:\Users\Abir Lahmer\.gradle\caches\transforms-2\files-2.1\da95e0dd41fd0c634661df2a0f122634\core-1.1.0\AndroidManifest.xml:24:18-86
+28        android:debuggable="true"
+29        android:icon="@mipmap/ic_launcher"
+29-->C:\Users\Abir Lahmer\Desktop\Stage\AppTestBLE\app\src\main\AndroidManifest.xml:21:9-43
+30        android:label="EnanoBLE"
+30-->C:\Users\Abir Lahmer\Desktop\Stage\AppTestBLE\app\src\main\AndroidManifest.xml:22:9-33
+31        android:supportsRtl="true"
+31-->C:\Users\Abir Lahmer\Desktop\Stage\AppTestBLE\app\src\main\AndroidManifest.xml:23:9-35
+32        android:theme="@style/AppTheme" >
+32-->C:\Users\Abir Lahmer\Desktop\Stage\AppTestBLE\app\src\main\AndroidManifest.xml:24:9-40
+33        <activity android:name="com.yt.BLEClient.Authentification" />
+33-->C:\Users\Abir Lahmer\Desktop\Stage\AppTestBLE\app\src\main\AndroidManifest.xml:25:9-79
+33-->C:\Users\Abir Lahmer\Desktop\Stage\AppTestBLE\app\src\main\AndroidManifest.xml:25:19-67
+34        <activity android:name="com.yt.BLEClient.MainActivity" >
+34-->C:\Users\Abir Lahmer\Desktop\Stage\AppTestBLE\app\src\main\AndroidManifest.xml:26:9-32:20
+34-->C:\Users\Abir Lahmer\Desktop\Stage\AppTestBLE\app\src\main\AndroidManifest.xml:26:19-63
+35            <intent-filter>
+35-->C:\Users\Abir Lahmer\Desktop\Stage\AppTestBLE\app\src\main\AndroidManifest.xml:27:13-31:29
+36                <action android:name="android.intent.action.MAIN" />
+36-->C:\Users\Abir Lahmer\Desktop\Stage\AppTestBLE\app\src\main\AndroidManifest.xml:28:17-69
+36-->C:\Users\Abir Lahmer\Desktop\Stage\AppTestBLE\app\src\main\AndroidManifest.xml:28:25-66
+37
+38                <category android:name="android.intent.category.LAUNCHER" />
+38-->C:\Users\Abir Lahmer\Desktop\Stage\AppTestBLE\app\src\main\AndroidManifest.xml:30:17-77
+38-->C:\Users\Abir Lahmer\Desktop\Stage\AppTestBLE\app\src\main\AndroidManifest.xml:30:27-74
+39            </intent-filter>
+40        </activity>
+41        <activity android:name="com.yt.BLEClient.DeviceScanActivity" />
+41-->C:\Users\Abir Lahmer\Desktop\Stage\AppTestBLE\app\src\main\AndroidManifest.xml:33:9-72
+41-->C:\Users\Abir Lahmer\Desktop\Stage\AppTestBLE\app\src\main\AndroidManifest.xml:33:19-69
+42        <activity android:name="com.yt.BLEClient.DeviceControlActivity" />
+42-->C:\Users\Abir Lahmer\Desktop\Stage\AppTestBLE\app\src\main\AndroidManifest.xml:34:9-75
+42-->C:\Users\Abir Lahmer\Desktop\Stage\AppTestBLE\app\src\main\AndroidManifest.xml:34:19-72
+43        <activity android:name="com.yt.BLEClient.Dashbord" />
+43-->C:\Users\Abir Lahmer\Desktop\Stage\AppTestBLE\app\src\main\AndroidManifest.xml:35:9-62
+43-->C:\Users\Abir Lahmer\Desktop\Stage\AppTestBLE\app\src\main\AndroidManifest.xml:35:19-59
+44
+45        <service
+45-->C:\Users\Abir Lahmer\Desktop\Stage\AppTestBLE\app\src\main\AndroidManifest.xml:36:9-38:38
+46            android:name="com.yt.BLEClient.BluetoothLeService"
+46-->C:\Users\Abir Lahmer\Desktop\Stage\AppTestBLE\app\src\main\AndroidManifest.xml:37:13-63
+47            android:enabled="true" />
+47-->C:\Users\Abir Lahmer\Desktop\Stage\AppTestBLE\app\src\main\AndroidManifest.xml:38:13-35
+48    </application>
+49
+50</manifest>

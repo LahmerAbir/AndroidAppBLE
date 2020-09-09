@@ -1,0 +1,2 @@
+rootProject.name='BLEApplication'
+include ':app'
